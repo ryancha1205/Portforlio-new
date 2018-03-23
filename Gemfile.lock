@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/ryancha1205/copyright-tool
+  revision: 6cbc7aebdd6726646041d19c7fa6e4d369fb512f
+  specs:
+    devcamp_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -58,7 +64,6 @@ GEM
     concurrent-ruby (1.0.5)
     crass (1.0.3)
     debug_inspector (0.0.2)
-    devcamp_view_tool (0.1.0)
     devise (4.2.0)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -203,7 +208,7 @@ DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
   byebug
   coffee-rails (~> 4.2)
-  devcamp_view_tool (~> 0.1.0)
+  devcamp_view_tool!
   devise (~> 4.2)
   font-awesome-rails (~> 4.7, >= 4.7.0.1)
   friendly_id (~> 5.1.0)
